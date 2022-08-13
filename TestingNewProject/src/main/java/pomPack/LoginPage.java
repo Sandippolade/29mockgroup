@@ -31,7 +31,7 @@ public class LoginPage   {
 		username.sendKeys("9922098651");
 	}
 	public void sendpassward() {
-		password.sendKeys("pappu3330");
+		password.sendKeys("Harshvardhan");
 	}
 	public void clicklogin() {
 		loginbutton.click();
